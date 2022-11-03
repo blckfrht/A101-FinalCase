@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Patika Practicum Final Case">
+
+    <test verbose="2" preserve-order="true" name="C:/Users/celeb/IdeaProjects/com.hepsiburada">
+
+       <classes>
+
+           <class name="CaseWithoutLogin"></class>
+
+           <class name="CaseWithLogin"></class>
+
+       </classes>
+
+    </test>
+
+</suite>
